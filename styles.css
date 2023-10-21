@@ -85,8 +85,6 @@ body {
     margin-left: 240px;
   }
 
-
-
 @media(max-width:900px){
     body{
         background-image: url(/images/1.jpg);
