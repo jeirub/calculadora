@@ -18,3 +18,8 @@ function calculate() {
         document.getElementById('display').value = 'Error';
     }
 }
+
+function backspace() {
+    currentInput = currentInput.slice(0, -1);
+    displayValue = currentInput;
+  }
